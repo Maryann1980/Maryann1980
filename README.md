@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maryann
-- 👀 I’m interested in full stack prgramming
+- 👀 I’m interested in full stack programming
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me igwemaryanneifunanya@gmail.com
