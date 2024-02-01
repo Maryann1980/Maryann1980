@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maryann
 - 👀 I’m interested in full stack programming
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me igwemaryanneifunanya@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Open to learning more
