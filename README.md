@@ -5,9 +5,13 @@ I'm a front-end developer who loves turning ideas into clean, functional, and vi
 ## Tech Stack
 
 - HTML5  
-- CSS3 (and a good eye for UI)  
+- CSS3  
 - JavaScript (ES6+)  
-- React.js 
+- React.js
+- Tailwind CSS
+- SQL
+- MongoDB
+- Python
 - Currently exploring: Next.js  
 
 ## What You'll Find Here
