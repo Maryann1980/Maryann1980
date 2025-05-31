@@ -7,7 +7,7 @@ I'm a front-end developer who loves turning ideas into clean, functional, and vi
 - HTML5  
 - CSS3 (and a good eye for UI)  
 - JavaScript (ES6+)  
-- React.js ⚛️  
+- React.js 
 - Currently exploring: Next.js  
 
 ## What You'll Find Here
@@ -17,14 +17,14 @@ I'm a front-end developer who loves turning ideas into clean, functional, and vi
 - Responsive landing pages  
 - Clean and readable code  
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-kappa-eight.vercel.app/api?username=Maryann1980&show_icons=true&theme=radical" alt="Maryann's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-eight.vercel.app/api/top-langs/?username=Maryann1980&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-mu-nine.vercel.app/api/top-langs/?username=Maryann1980&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ##  A Peek Into My Work
