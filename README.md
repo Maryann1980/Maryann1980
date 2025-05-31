@@ -24,7 +24,7 @@ I'm a front-end developer who loves turning ideas into clean, functional, and vi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-mu-nine.vercel.app/api/top-langs/?username=Maryann1980&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maryann1980&theme=radical" alt="Top Languages" />
 </p>
 
 ##  A Peek Into My Work
